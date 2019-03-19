@@ -32,5 +32,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### 注意
 
 *  基于vue cli 3.0创建前端项目并安装cube-ui CSS 预编译器是styleus 
-*  跟着慕课网学习，并且增加了Cube-UI
+*  跟着慕课网学习，并且 单独 增加了Cube-UI 
 *  实现了导航跳转
